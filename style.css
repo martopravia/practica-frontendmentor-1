@@ -15,7 +15,7 @@ body {
 
 .card {
   background-color: hsl(0, 0%, 100%);
-  width: 320px;
+  width: 345px;
 
   border-radius: 1rem;
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
@@ -29,5 +29,12 @@ img {
 }
 
 h2 {
-  margin: 10px 0 10px 0;
+  margin: 1.5rem 0 1.5rem 0;
+  font-weight: 700;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+p {
+  padding: 0 1rem 0 1rem;
 }
